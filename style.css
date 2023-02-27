@@ -35,8 +35,8 @@ body {
     align-items: center;
     justify-content: center;
     padding: 30px;
-    animation: slide-in 1s 0.8s forwards;
-    transform: translateX(-100vw);
+    /* animation: slide-in 1s 0.8s forwards; */
+    /* transform: translateX(-100vw); */
 }
 
 @keyframes slide-in {
@@ -72,8 +72,8 @@ body {
     background: var(--white);
     border-radius: 20px;
     width: 315px;
-    animation: move-in 1s 1.9s forwards;
-    opacity: 0;
+    /* animation: move-in 1s 1.9s forwards; */
+    /* opacity: 0; */
 }
 
 @keyframes move-in {
