@@ -7,7 +7,7 @@
     --dark-blue: hsl(218, 44%, 22%);
     --grayish-blue: hsl(220, 15%, 55%);
     --heading: 22px;
-    --paragraph: 15px;
+    --paragraph: 16px;
     --font-outfit: 'Outfit', sans-serif
 }
 
@@ -94,10 +94,10 @@ body {
     justify-content: flex-start;
     text-align: center;
     gap: 16px;
-    padding-top: 6px;
+    padding-top: 10px;
     padding-bottom: 40px;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 28px;
+    padding-right: 28px;
 }
 
 
